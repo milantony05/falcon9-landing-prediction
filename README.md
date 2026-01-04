@@ -2,6 +2,8 @@
 
 A comprehensive data science project that predicts whether the Falcon 9 first stage will land successfully. This prediction is crucial for determining launch costs, as SpaceX advertises Falcon 9 rocket launches at $62 million compared to other providers costing upward of $165 million - with savings primarily due to first stage reusability.
 
+<img width="1917" height="896" alt="dash_completed" src="https://github.com/user-attachments/assets/901e45fe-1d7c-47c0-beaa-03d352556d8b" />
+
 ## 📋 Project Overview
 
 This project analyzes SpaceX launch data to predict first-stage landing success using machine learning techniques. The analysis covers data collection, wrangling, exploratory data analysis, visualization, and predictive modeling.
